@@ -1,2 +1,7 @@
-# Builders-Refuge-2024-Comp
-Further details for the judges relating to my build submission.
+# WILLATRONIX's Firewatch Tower
+
+## Inspiration
+
+Most of my inspiration came from the Firewatch game. As it portrayed the feeling of solitude brilliantly.
+
+## Details
